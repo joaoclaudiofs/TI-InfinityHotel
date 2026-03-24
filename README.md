@@ -1,1 +1,1 @@
-# InifinityHotel-Ti
+# InfinityHotel-Ti
